@@ -1,3 +1,10 @@
-How to Make A Resume Website From Scratch
-=========
-Based on [this tutorial](https://medium.com/p/991845147ec).
+# resume-web
+demo  [click for demo](https://nikitaspatil.github.io/)
+
+##### techs
+- HMTL5
+- CSS3
+- Font Awesome
+- Google Font (ubuntu)
+
+
